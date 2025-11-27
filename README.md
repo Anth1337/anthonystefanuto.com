@@ -1,3 +1,3 @@
 # anthonystefanuto.com
 
-### Build with Typescript, TailwindCSS and React
+### Built with Typescript, TailwindCSS and React
